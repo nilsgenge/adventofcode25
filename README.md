@@ -1,3 +1,3 @@
-# Advent of Code 2025
+# Advent of Code
 
-in python
+2025: Python
